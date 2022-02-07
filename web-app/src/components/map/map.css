@@ -1,0 +1,7 @@
+.map {
+    flex: 9;
+    display: flex;
+    height:max-content;
+    border-color: purple;
+    background-color: rgb(226, 182, 226);
+}
