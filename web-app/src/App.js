@@ -1,16 +1,21 @@
-import Container from './components/container/Container';
 import './App.css';
 import React from 'react';
 import NavBar from './components/navbar/NavBar';
 import Footer from './components/footer/Footer';
+import Home from './components/home/Home';
+import About from './components/about/About';
+import { Routes, Route } from "react-router-dom";
 
 function App() {
   return (
-    <React.StrictMode>
+    <div className="App">
       <NavBar />
-      <Container />
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="about" element={<About />} />
+      </Routes>
       <Footer />
-    </React.StrictMode>
+    </div>
   );
 }
 

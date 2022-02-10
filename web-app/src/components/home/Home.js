@@ -1,16 +1,16 @@
 import React from "react"
-import "./container.css"
+import "./home.css"
 import Map from "../map/Map"
 import Sidebar from "../sidebar/Sidebar"
 
-class Container extends React.Component {
+class Home extends React.Component {
   render() {
     return (
-      <div className="container">
+      <div className="home">
           <Sidebar />
           <Map />
       </div>
     )
   }
 }
-export default Container
+export default Home

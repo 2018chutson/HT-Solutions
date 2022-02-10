@@ -11,6 +11,11 @@
     padding-left: 10px;
 }
 
+.link {
+    color: inherit;
+    text-decoration: inherit;
+}
+
 .topLeft, .topRight {
     flex: 1;
     display: flex;
