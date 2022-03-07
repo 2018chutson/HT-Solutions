@@ -6,39 +6,14 @@ export default function About() {
             <div className="title">
                 <h1>About</h1>
             </div>
-            <p className="description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate, beatae! 
-                Dicta, omnis, aperiam, necessitatibus harum deserunt recusandae eos repudiandae 
-                rerum placeat cum dolor reprehenderit quam minus. Nesciunt ratione deleniti vero. 
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere hic eos eligendi, 
-                culpa vero quam illum ipsam officiis fugiat iure, voluptas deserunt aut eum! Fugiat 
-                facilis voluptatum eum dolorem reiciendis. Lorem ipsum dolor sit amet consectetur 
-                adipisicing elit. Fugiat incidunt officia alias vero excepturi ratione est inventore 
-                dicta, quam ipsa, eligendi provident quod eius dolorum eaque error. Odio, distinctio 
-                magnam! Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate, beatae! 
-                Dicta, omnis, aperiam, necessitatibus harum deserunt recusandae eos repudiandae 
-                rerum placeat cum dolor reprehenderit quam minus. Nesciunt ratione deleniti vero. 
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere hic eos eligendi, 
-                culpa vero quam illum ipsam officiis fugiat iure, voluptas deserunt aut eum! Fugiat 
-                facilis voluptatum eum dolorem reiciendis. Lorem ipsum dolor sit amet consectetur 
-                adipisicing elit. Fugiat incidunt officia alias vero excepturi ratione est inventore 
-                dicta, quam ipsa, eligendi provident quod eius dolorum eaque error. Odio, distinctio 
-                magnam! Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate, beatae! 
-                Dicta, omnis, aperiam, necessitatibus harum deserunt recusandae eos repudiandae 
-                rerum placeat cum dolor reprehenderit quam minus. Nesciunt ratione deleniti vero. 
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere hic eos eligendi, 
-                culpa vero quam illum ipsam officiis fugiat iure, voluptas deserunt aut eum! Fugiat 
-                facilis voluptatum eum dolorem reiciendis. Lorem ipsum dolor sit amet consectetur 
-                adipisicing elit. Fugiat incidunt officia alias vero excepturi ratione est inventore 
-                dicta, quam ipsa, eligendi provident quod eius dolorum eaque error. Odio, distinctio 
-                magnam! Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate, beatae! 
-                Dicta, omnis, aperiam, necessitatibus harum deserunt recusandae eos repudiandae 
-                rerum placeat cum dolor reprehenderit quam minus. Nesciunt ratione deleniti vero. 
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere hic eos eligendi, 
-                culpa vero quam illum ipsam officiis fugiat iure, voluptas deserunt aut eum! Fugiat 
-                facilis voluptatum eum dolorem reiciendis. Lorem ipsum dolor sit amet consectetur 
-                adipisicing elit. Fugiat incidunt officia alias vero excepturi ratione est inventore 
-                dicta, quam ipsa, eligendi provident quod eius dolorum eaque error. Odio, distinctio 
-                magnam!
+            <p className="description">HT Map is an application that aims to provide a clear and easy to use visual interpretation of 
+            human trafficking incident data from Wyoming, and provide predictions for future incidents using our machine learning 
+            algorithm, HT Palantir. This app is intended for use by law enforcement officials. All data collected for the purposes of 
+            this project is publicly released on the Federal Bureau of Investigation’s Crime Data Explorer, but our database could be 
+            replaced with confidential data specific to the organization using HT Map.
+
+            Upon starting, HT Map shows all the collected data on the heatmap. To get a narrowed view of specific filters, use the toggles 
+            on the left side of the screen and the map will adjust accordingly.
             </p>
         </div>
     )

@@ -6,6 +6,7 @@ import Home from './components/home/Home';
 import About from './components/about/About';
 import { Routes, Route } from "react-router-dom";
 
+
 function App() {
   return (
     <div className="App">
@@ -20,3 +21,4 @@ function App() {
 }
 
 export default App;
+
