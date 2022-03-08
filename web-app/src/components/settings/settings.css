@@ -5,4 +5,9 @@
     flex-direction: column;
     align-items: center;
     padding: 5%;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+h3 {
+    padding-bottom: 10px;
 }
