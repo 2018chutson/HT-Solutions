@@ -3,7 +3,7 @@ import React, { useRef, useEffect, useState } from 'react';
 import mapboxgl from '!mapbox-gl'; // eslint-disable-line import/no-webpack-loader-syntax
 //import data from './halfCrime.csv'
 
-mapboxgl.accessToken = 'pk.eyJ1IjoiY2h1dHNvbjEiLCJhIjoiY2wwaDZib2U1MDVrbTNvbXVlOWdxN3h1NiJ9.UXSPGrLi1GBO4jqzyKJ1sg';
+mapboxgl.accessToken = 'pk.eyJ1IjoiY2h1dHNvbjEiLCJhIjoiY2wwazV5M2s3MDFxZDNqcm1xeWh5MDVhZiJ9.g1UbqY2oSaOboxZ0nzmSEg';
 
 function Map() {
     // experimental
