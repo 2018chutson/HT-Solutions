@@ -1,8 +1,13 @@
 .settings {
-    flex: 3;
+    flex: 1;
     background-color: #bce7bc;
     display: flex;
     flex-direction: column;
     align-items: center;
-    border-color: green;
+    padding: 5%;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+h3 {
+    padding-bottom: 10px;
 }

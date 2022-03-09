@@ -1,7 +1,9 @@
-.map {
-    flex: 9;
+.map-container {
+    height: 85vh;
+    width: 80vw;
+    flex: 3;
     display: flex;
-    height:max-content;
-    border-color: purple;
-    background-color: rgb(226, 182, 226);
-}
+    flex-direction: column;
+    align-items: center;
+    position: static;
+  }
