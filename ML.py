@@ -1,61 +1,130 @@
 #hi
 import pandas as pd
 import numpy as np
-import torch as tr
+import sklearn as sk
+import matplotlib.pyplot as plt
+from sklearn import linear_model
+from sklearn.linear_model import LinearRegression
+from sklearn.preprocessing import PolynomialFeatures
+from sklearn.metrics import mean_squared_error, r2_score
+#import torch as tr
+def PrepData(input):
+  data = pd.read_csv(input)
+  #data.loc[data["County"] == "Albany", "County"] = 0
+  #data.loc[data["County"] == "Campbell", "County"] = 1
+  #data.Date.str.split("-").tolist()
+  date = pd.DataFrame(data['Date'].str.split("-").tolist(), columns=['day', 'month', 'year']) 
+  date = date.values
+  print(date)
 
-class Net(tr.nn.Module):
-  def __init__(self):
-    super(Net, self).__init__()
-    # l1 is the layer from input to hidden
-    # l2 is the layer from hidden to output
-    self.l1 = tr.nn.Linear(4, 10) #raise(NotImplementedError)
-    self.l2 = tr.nn.Linear(10,1) #raise(NotImplementedError)
-  def forward(self, x):
-    # Define the network's forward pass
-    # For an input feature vector x, should return a scalar output y
-    # y should be between 0 and 1, indicating the recidivism prediction
-    # Use tanh for the hidden layer activation
-    # Use sigmoid for the output node activation
-    
-    x = tr.tanh(self.l1(x))   
-    x = tr.sigmoid(self.l2(x))
-   #raise(NotImplementedError)
-    return x
+  data.insert(4,"Day",date[:,0])
+  data.insert(5,"Month",date[:,1])
+  data.insert(6,"Year",date[:,2])
+  data = data.drop('Date', axis=1)
+  #print(data)
 
-data = pd.read_csv("test data.csv", index_col=0)
-labels = data.pop("incidents")
-features = data.copy()
+  for i in range (0,data.shape[0]):
+      time=data.iloc[i,7]
+      #print(time)
+      if (time[-2:] == "am"):
+        data.iloc[i,7] = time.split(":")[0]
+      elif (time[-2:] == "pm"):
+        data.iloc[i,7] =  str(int(time.split(":")[0])+12)
 
-print("test data")
-print(data)
+  data.loc[data["Month"] == "Jan", "Month"] = 0
+  data.loc[data["Month"] == "Feb", "Month"] = 1
+  data.loc[data["Month"] == "Mar", "Month"] = 2
+  data.loc[data["Month"] == "Apr", "Month"] = 3
+  data.loc[data["Month"] == "May", "Month"] = 4
+  data.loc[data["Month"] == "Jun", "Month"] = 5
+  data.loc[data["Month"] == "Jul", "Month"] = 6
+  data.loc[data["Month"] == "Aug", "Month"] = 7
+  data.loc[data["Month"] == "Sep", "Month"] = 8
+  data.loc[data["Month"] == "Oct", "Month"] = 9
+  data.loc[data["Month"] == "Nov", "Month"] = 10
+  data.loc[data["Month"] == "Dec", "Month"] = 11
 
+  data[["Day", "Year","Time"]] = data[["Day", "Year","Time"]].apply(pd.to_numeric)
+  data = data.sample(frac=1, random_state=1)     
+  print(data)
+  x = data.iloc[:,:9]
+  x = x.drop('State', axis=1)
+  x = x.drop('County', axis=1)
+  x = x.drop('Crime', axis=1)
+  y= data.iloc[:,9]
+  print(x)
+  print(y)
+  trainx = x.iloc[:1400,:]
+  trainy = y.iloc[:1400]
+  testx = x.iloc[1400:,:]
+  testy = y.iloc[1400:] 
+  return trainx,trainy,testx,testy
 
-def to_tensor(df): return tr.tensor(df.values.astype(np.float32))
+def Learn(x,y):
+  x=x.values
+  y=y.values
+  print(x)
+  print(y)
+  polynomial = PolynomialFeatures(degree=3, include_bias=False)
+  polyx = polynomial.fit_transform(x)
+  reg = linear_model.Lasso()
+  #reg = LinearRegression()
+  model = reg.fit(polyx, y)
+  predictions = model.predict(polyx)
+  r2 = r2_score(y, predictions)
+  rmse = mean_squared_error(y, predictions, squared=False)
+  print('The r2 is: ', r2)
+  print('The rmse is: ', rmse)
+  print("coef are ",model.coef_)
+  print("intercept is " , model.intercept_)
+  #print(model)
+  return model
 
-inputs, targets = to_tensor(features), to_tensor(labels)
+def test(model,testx,testy):
+  polynomial = PolynomialFeatures(degree=3, include_bias=False)
+  polytestx = polynomial.fit_transform(testx)
+  predictions = model.predict(polytestx)
+  r2 = r2_score(testy, predictions)
+  rmse = mean_squared_error(testy, predictions, squared=False)
+  print('The r2 is: ', r2)
+  print('The rmse is: ', rmse)
+  return
 
-net = Net()
-optimizer = tr.optim.SGD(net.parameters(), lr=0.01/inputs.shape[0])
-num_epochs = 100
-for epoch in range(num_epochs):
-  # Start with zero gradient
-  optimizer.zero_grad()
+def HTpredictions(model):
+  #df = {'Latitude':[], 
+  #      'Longitude':[], 
+  #      'Day':[],
+  #      'Month':[],
+  #      'Year':[],
+  #      'Time':[]}
+  df = pd.read_csv("PredictionTemplate.csv")
+  unique = df.shape[0]
+  print(unique)
+  print(df.iloc[1,:])
+  temp = np.zeros(8)
+  for i in range (0,unique):
+    for a in range(1,12):
+      df= df.append(df.iloc[i,:],ignore_index=True)
+      #df=pd.concat([df,df.iloc[i,:]])
+      df.iloc[i,5] = a    
+  print(df)
+      
+  x = df.iloc[:,:9]
+  x = x.drop('State', axis=1)
+  x = x.drop('County', axis=1)
+  x = x.values
+  polynomial = PolynomialFeatures(degree=3, include_bias=False)
+  polytestx = polynomial.fit_transform(x)
+  predictions = model.predict(polytestx)
+  df = pd.concat([df, pd.DataFrame(predictions,columns=['predict'])],axis = 1)
+  df.to_csv('prediction.csv',index=False)
+  print(df)
+  df = df.sort_values('Month')
+  plt.scatter(df['Month'], df['predict'], color='m', label='HousVacant')
+  plt.show()
+  #predictions = model.predict(polytestx)
 
-  # Calculate network output and sum of squared loss for each datapoint
-  y = net(inputs)
-  loss = ((y.squeeze() - targets.squeeze())**2).sum()
-
-  # Calculate gradients and take a descent step
-  loss.backward()
-  optimizer.step()
-
-  # Monitor optimization progress
-  num_errors = (y.squeeze().round().detach().numpy() != targets.numpy()).sum()
-  if epoch % (num_epochs/10) == 0: print(loss, num_errors)
-
-# Print predicted and target outputs for the first 10 datapoints 
-print(y.squeeze()[:2])
-print(y.squeeze()[:2].round())
-print(targets[:2].squeeze())
-print((y.squeeze().detach().numpy() > .5).any())
-
+x,y,testx,testy = PrepData("halfCrime.csv")
+model = Learn(x,y)
+test(model,testx,testy)
+HTpredictions(model)
