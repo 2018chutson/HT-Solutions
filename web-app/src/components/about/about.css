@@ -1,11 +1,8 @@
 .about {
     display: flex;
-    padding: 20px;
+    padding: 100px;
 }
 
-/* .singlePost {
-    flex: 9;
-} */
 
 
 .title {
@@ -15,25 +12,4 @@
     margin: 10px;
     font-family: 'Lora', serif;
     font-size: 20px;
-}
-
-.singlePostInfo {
-    margin-bottom: 20px;
-    display: flex;
-    justify-content: space-between;
-    font-family: 'Varela Round', sans-serif;
-    font-size: 16px;
-    color: #b39656;
-}
-
-.description {
-    color: #666;
-    font-size: 18px;
-    line-height: 25px;
-}
-
-.singlePostDescription::first-letter {
-    margin-left: 20px;
-    font-size: 30px;
-    font-weight: 600;
 }
