@@ -1,4 +1,4 @@
-State,County,Latitude ,Longitude ,Date,Time,Crime,Occurences 
+State,County,Latitude ,Longitude ,Date,Time,Crime,Occurences
 WY,Albany,41.293265,-105.590699,24-May-17,3:00pm-3:59pm,Abduction,1
 WY,Albany,41.293265,-105.590699,14-Jun-17,3:00pm-3:59pm,Sexual Assault,1
 WY,Albany,41.293265,-105.590699,5-Jan-19,4:00pm-4:59pm,Sexual Assault,1
@@ -647,6 +647,39 @@ WY,Albany,41.293265,-105.590699,24-Dec-21,5:00pm-5:59pm,Assault,1
 WY,Albany,41.293265,-105.590699,26-Dec-21,2:00pm-2:59pm,Assault,1
 WY,Albany,41.293265,-105.590699,26-Dec-21,3:00pm-3:59pm,Assault,1
 WY,Albany,41.293265,-105.590699,27-Dec-21,10:00pm-10:59pm,Assault,1
+WY,Albany,41.293265,-105.590699,14-Feb-17,8:00pm-8:59pm,Violation of Protection Order,1
+WY,Albany,41.293265,-105.590699,23-Mar-17,3:00pm-3:59pm,Violation of Protection Order,1
+WY,Albany,41.293265,-105.590699,29-Apr-17,3:00am-3:59am,Violation of Protection Order,1
+WY,Albany,41.293265,-105.590699,24-May-17,9:00am-9:59am,Violation of Protection Order,1
+WY,Albany,41.293265,-105.590699,15-Aug-17,11:00am-11:59am,Violation of Protection Order,1
+WY,Albany,41.293265,-105.590699,6-Nov-17,12:00n-12:59pm,Violation of Protection Order,1
+WY,Albany,41.293265,-105.590699,14-Dec-17,1:00pm-1:59pm,Violation of Protection Order,1
+WY,Albany,41.293265,-105.590699,11-Feb-18,1:00pm-1:59pm,Violation of Protection Order,1
+WY,Albany,41.293265,-105.590699,12-Feb-18,10:00am-10:59am,Violation of Protection Order,1
+WY,Albany,41.293265,-105.590699,17-Apr-18,10:00am-10:59am,Violation of Protection Order,1
+WY,Albany,41.293265,-105.590699,30-Jun-18,10:00am-10:59am,Violation of Protection Order,1
+WY,Albany,41.293265,-105.590699,12-Jul-18,10:00pm-10:59pm,Violation of Protection Order,1
+WY,Albany,41.293265,-105.590699,19-Oct-18,2:00pm-2:59pm,Violation of Protection Order,1
+WY,Albany,41.293265,-105.590699,5-Jan-19,9:00pm-9:59pm,Violation of Protection Order,1
+WY,Albany,41.293265,-105.590699,5-Feb-19,9:00am-9:59am,Violation of Protection Order,1
+WY,Albany,41.293265,-105.590699,20-Mar-19,1:00pm-1:59pm,Violation of Protection Order,1
+WY,Albany,41.293265,-105.590699,28-Mar-19,4:00pm-4:59pm,Violation of Protection Order,1
+WY,Albany,41.293265,-105.590699,16-Apr-19,5:00pm-5:59pm,Violation of Protection Order,1
+WY,Albany,41.293265,-105.590699,28-Aug-19,4:00pm-4:59pm,Violation of Protection Order,1
+WY,Albany,41.293265,-105.590699,1-Oct-19,8:00am-8:59am,Violation of Protection Order,1
+WY,Albany,41.293265,-105.590699,1-Nov-19,12:00n-12:59pm,Violation of Protection Order,1
+WY,Albany,41.293265,-105.590699,6-Nov-19,10:00am-10:59am,Violation of Protection Order,1
+WY,Albany,41.293265,-105.590699,9-Nov-19,4:00pm-4:59pm,Violation of Protection Order,1
+WY,Albany,41.293265,-105.590699,28-Jan-20,11:00pm-11:59pm,Violation of Protection Order,1
+WY,Albany,41.293265,-105.590699,29-Feb-20,1:00am-1:59am,Violation of Protection Order,1
+WY,Albany,41.293265,-105.590699,29-Feb-20,1:00pm-1:59pm,Violation of Protection Order,1
+WY,Albany,41.293265,-105.590699,4-Mar-20,9:00pm-9:59pm,Violation of Protection Order,1
+WY,Albany,41.293265,-105.590699,4-Mar-20,4:00pm-4:59pm,Violation of Protection Order,1
+WY,Albany,41.293265,-105.590699,5-Mar-20,8:00am-8:59am,Violation of Protection Order,1
+WY,Albany,41.293265,-105.590699,29-Oct-20,6:00am-6:59am,Violation of Protection Order,1
+WY,Albany,41.293265,-105.590699,16-Jun-17,10:00am-10:59am,Intimidation,1
+WY,Albany,41.293265,-105.590699,4-Jan-22,10:00am-10:59am,Intimidation,1
+WY,Albany,41.293265,-105.590699,28-Apr-20,7:00am-7:59am,Intimidation,1
 WY,Albany,41.311375,-105.590884,16-Jan-17,1:00pm-1:59pm,Assault,2
 WY,Albany,41.311375,-105.590884,3-Feb-17,9:00am-9:59am,Assault,2
 WY,Albany,41.311375,-105.590884,6-Feb-17,11:00am-11:59am,Assault,4
@@ -751,39 +784,6 @@ WY,Albany,41.311375,-105.590884,11-May-18,4:00pm-4:59pm,Violation of Protection 
 WY,Albany,41.311375,-105.590884,5-Oct-18,6:00am-6:59am,Violation of Protection Order,1
 WY,Albany,41.311375,-105.590884,4-Mar-19,2:00pm-2:59pm,Violation of Protection Order,1
 WY,Albany,41.311375,-105.590884,16-Sep-20,9:00am-9:59am,Violation of Protection Order,1
-WY,Albany,41.293265,-105.590699,14-Feb-17,8:00pm-8:59pm,Violation of Protection Order,1
-WY,Albany,41.293265,-105.590699,23-Mar-17,3:00pm-3:59pm,Violation of Protection Order,1
-WY,Albany,41.293265,-105.590699,29-Apr-17,3:00am-3:59am,Violation of Protection Order,1
-WY,Albany,41.293265,-105.590699,24-May-17,9:00am-9:59am,Violation of Protection Order,1
-WY,Albany,41.293265,-105.590699,15-Aug-17,11:00am-11:59am,Violation of Protection Order,1
-WY,Albany,41.293265,-105.590699,6-Nov-17,12:00n-12:59pm,Violation of Protection Order,1
-WY,Albany,41.293265,-105.590699,14-Dec-17,1:00pm-1:59pm,Violation of Protection Order,1
-WY,Albany,41.293265,-105.590699,11-Feb-18,1:00pm-1:59pm,Violation of Protection Order,1
-WY,Albany,41.293265,-105.590699,12-Feb-18,10:00am-10:59am,Violation of Protection Order,1
-WY,Albany,41.293265,-105.590699,17-Apr-18,10:00am-10:59am,Violation of Protection Order,1
-WY,Albany,41.293265,-105.590699,30-Jun-18,10:00am-10:59am,Violation of Protection Order,1
-WY,Albany,41.293265,-105.590699,12-Jul-18,10:00pm-10:59pm,Violation of Protection Order,1
-WY,Albany,41.293265,-105.590699,19-Oct-18,2:00pm-2:59pm,Violation of Protection Order,1
-WY,Albany,41.293265,-105.590699,5-Jan-19,9:00pm-9:59pm,Violation of Protection Order,1
-WY,Albany,41.293265,-105.590699,5-Feb-19,9:00am-9:59am,Violation of Protection Order,1
-WY,Albany,41.293265,-105.590699,20-Mar-19,1:00pm-1:59pm,Violation of Protection Order,1
-WY,Albany,41.293265,-105.590699,28-Mar-19,4:00pm-4:59pm,Violation of Protection Order,1
-WY,Albany,41.293265,-105.590699,16-Apr-19,5:00pm-5:59pm,Violation of Protection Order,1
-WY,Albany,41.293265,-105.590699,28-Aug-19,4:00pm-4:59pm,Violation of Protection Order,1
-WY,Albany,41.293265,-105.590699,1-Oct-19,8:00am-8:59am,Violation of Protection Order,1
-WY,Albany,41.293265,-105.590699,1-Nov-19,12:00n-12:59pm,Violation of Protection Order,1
-WY,Albany,41.293265,-105.590699,6-Nov-19,10:00am-10:59am,Violation of Protection Order,1
-WY,Albany,41.293265,-105.590699,9-Nov-19,4:00pm-4:59pm,Violation of Protection Order,1
-WY,Albany,41.293265,-105.590699,28-Jan-20,11:00pm-11:59pm,Violation of Protection Order,1
-WY,Albany,41.293265,-105.590699,29-Feb-20,1:00am-1:59am,Violation of Protection Order,1
-WY,Albany,41.293265,-105.590699,29-Feb-20,1:00pm-1:59pm,Violation of Protection Order,1
-WY,Albany,41.293265,-105.590699,4-Mar-20,9:00pm-9:59pm,Violation of Protection Order,1
-WY,Albany,41.293265,-105.590699,4-Mar-20,4:00pm-4:59pm,Violation of Protection Order,1
-WY,Albany,41.293265,-105.590699,5-Mar-20,8:00am-8:59am,Violation of Protection Order,1
-WY,Albany,41.293265,-105.590699,29-Oct-20,6:00am-6:59am,Violation of Protection Order,1
-WY,Albany,41.293265,-105.590699,16-Jun-17,10:00am-10:59am,Intimidation,1
-WY,Albany,41.293265,-105.590699,4-Jan-22,10:00am-10:59am,Intimidation,1
-WY,Albany,41.293265,-105.590699,28-Apr-20,7:00am-7:59am,Intimidation,1
 WY,Campbell,44.276857,-105.512499,12-Mar-17,3:00pm-3:59pm,Sexual Assault,1
 WY,Campbell,44.276857,-105.512499,15-Jul-17,4:00pm-4:59pm,Sexual Assault,1
 WY,Campbell,44.276857,-105.512499,9-Feb-20,4:00pm-4:59pm,Sexual Assault,1
@@ -1059,7 +1059,7 @@ WY,Crook,44.405028,-104.378417,28-Jun-21,9:00pm-9:59pm,Intimidation,1
 WY,Crook,44.405028,-104.378417,6-Jul-21,4:00pm-4:59pm,Intimidation,1
 WY,Crook,44.405028,-104.378417,18-Oct-21,6:00pm-6:59pm,Intimidation,1
 WY,Fremont,42.834056,-108.728639,29-Apr-18,4:00am-4:59am,Sexual Assault,1
-WY,Fremont,42.834056,-108.728639,14-11-20,3:00am-3:59am,Sexual Assault,1
+WY,Fremont,42.834056,-108.728639,14-Nov-20,3:00am-3:59am,Sexual Assault,1
 WY,Fremont,43.032035,-108.38118,19-Mar-21,2:00am-2:59am,Sexual Assault,1
 WY,Fremont,43.032035,-108.38118,29-Apr-21,10:00pm-10:59pm,Sexual Assault,1
 WY,Fremont,43.032035,-108.38118,22-Nov-20,11:00am-11:59am,Abduction,1
@@ -1527,7 +1527,6 @@ WY,Natrona,42.851944,-106.326306,5-Jul-19,12:00am-12:59am,Violation of Protectio
 WY,Natrona,42.851944,-106.326306,8-Aug-19,6:00pm-6:59pm,Violation of Protection Order,1
 WY,Natrona,42.851944,-106.326306,18-Jan-20,1:00am-1:59am,Violation of Protection Order,1
 WY,Natrona,42.851944,-106.326306,27-Oct-21,1:00pm-1:59pm,Violation of Protection Order,1
-WY,Natrona,42.861333,-106.270778,25-Apr-10,2:00am-2:59am,Intimidation,1
 WY,Natrona,42.861333,-106.270778,30-Jun-19,1:00am-1:59am,Intimidation,1
 WY,Natrona,42.861333,-106.270778,23-Jul-19,11:00am-11:59am,Intimidation,1
 WY,Natrona,42.861333,-106.270778,12-Oct-19,9:00pm-9:59pm,Intimidation,1
