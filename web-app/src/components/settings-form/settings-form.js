@@ -17,26 +17,12 @@ class SettingsForm extends React.Component {
     }
   
     handleSubmit(event) {
-      //alert('Your favorite flavor is: ' + this.state.value);
       event.preventDefault();
     }
 
   
     render() {
       return (
-        // <form onSubmit={this.handleSubmit}>
-        //   <label>
-        //     Crime:
-        //     <select value={this.state.value} onChange={this.handleChange}>
-        //       <option value="grapefruit">Assault</option>
-        //       <option value="lime">Sexual Assault</option>
-        //       <option value="coconut">Violation of Protection Order</option>
-        //       <option value="mango">Intimidation</option>
-        //       <option value="mango">Abduction</option>
-        //     </select>
-        //   </label>
-        //   <input type="submit" value="Submit" />
-        // </form>
         <Form>
           <Form.Group className="mb-3" controlId="formCrime">
           <Form.Label>Adjust Data</Form.Label>
