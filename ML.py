@@ -441,6 +441,17 @@ def forcasting(x,y):
   print(feature_imp)
   sns.barplot(x=feature_imp, y=feature_imp.index)
   plt.show()
+  prob = model.predict_proba(polytestx)
+  data.insert(data.shape[1],"Prediciton",predictions)
+  data.insert(data.shape[1],"Probability",prob[:,1])
+  data.to_csv('currentprediction.csv',index=False)
+  features = data.apply(lambda row: Feature(geometry=Point((float(row['Longitude']), float(row['Latitude'])))),axis=1).tolist()
+  # all the other columns used as properties
+  properties = data.drop(['Latitude', 'Longitude'], axis=1).to_dict('records')
+  # whole geojson object
+  feature_collection = FeatureCollection(features=features, properties=properties)
+  with open('currentpredictions.geojson', 'w', encoding='utf-8') as f: json.dump(feature_collection, f, ensure_ascii=False)
+
 
   pred = model.predict_proba(polytestx)
   data.insert(5,"predict",pred[:,1] )
@@ -457,6 +468,15 @@ def forcasting(x,y):
     dayv[data.iloc[i,2]-1] += data.iloc[i,5]
   plt.scatter(days,dayv, color='m', label='HousVacant')
   plt.show()
+
+  years = np.arange(2016,2023,1)
+  yearv = np.zeros(7)
+  for i in range (0,data.shape[0]-1):
+    yearv[data.iloc[i,4]-2016] += data.iloc[i,5]
+  plt.scatter(years,yearv, color='m', label='HousVacant')
+  plt.show()
+
+
   return(model)
 
 def test(model,testx,testy):
@@ -502,18 +522,19 @@ def HTpredictions(model):
 
 def prediction(model,st='2022-1-1', en='2022-12-31'):
   
-  temp = pd.read_csv("PredictionTemplate.csv")
+  temp = pd.read_csv("PredictionTempAlbany.csv")
   Drange = pd.date_range(start=st, end=en)
   r = pd.DataFrame(Drange, columns=['Date'])
   Dt = pd.DataFrame(columns=['Date','Time'])
+  df = pd.DataFrame(Drange,columns=['Date'])
   times = np.arange(1, 25, 1, dtype= int)  
-  for i in range (0,r.shape[0]):
-    CurrentD= np.full(24,r.iloc[i,0])
-    new = pd.DataFrame(CurrentD,columns=['Date'])
-    new.insert(1,'Time',times)
-    Dt = Dt.append(new,ignore_index=True)
-  df=Dt
-  final = pd.DataFrame(columns=['State','County','Latitude','Longitude','Date','Time'])
+  #or i in range (0,r.shape[0]):
+    #CurrentD= np.full(24,r.iloc[i,0])
+    #new = pd.DataFrame(CurrentD,columns=['Date'])
+    #new.insert(1,'Time',times)
+    #Dt = Dt.append(new,ignore_index=True)
+  #df=Dt
+  final = pd.DataFrame(columns=['State','County','Latitude','Longitude','Date'])#,'Time'])
   for i in range(0,temp.shape[0]):
     new = df.copy()
     lat= np.full(df.shape[0],temp.iloc[i,2])
@@ -539,16 +560,16 @@ def prediction(model,st='2022-1-1', en='2022-12-31'):
   x = df.iloc[:,:]
   x = x.drop('State', axis=1)
   x = x.drop('County', axis=1)
-  x = x.drop('Time', axis=1)
+  #x = x.drop('Time', axis=1)
 
-  scaled = scaler.fit_transform(x)
-  x = pd.DataFrame(scaled,columns= x.columns)
   x = x.values
   polynomial = PolynomialFeatures(degree=2, include_bias=False)
   polytestx = polynomial.fit_transform(x)
+  pred = model.predict(polytestx)
   predictions = model.predict_proba(polytestx)
   print(predictions)
-  df = pd.concat([df, pd.DataFrame(predictions[:,1],columns=['predict'])],axis = 1)
+  df = pd.concat([df, pd.DataFrame(pred,columns=['prediction'])],axis = 1)
+  df = pd.concat([df, pd.DataFrame(predictions[:,1],columns=['probability of event'])],axis = 1)
   df.to_csv('prediction.csv',index=False)
  
 
@@ -561,15 +582,16 @@ def prediction(model,st='2022-1-1', en='2022-12-31'):
 
   print(df)
   df = df.sort_values('Month')
-  plt.scatter(df['Month'], df['predict'], color='m', label='HousVacant')
+  plt.scatter(df['Month'], df['probability of event'], color='m', label='HousVacant')
   plt.show()
-  plt.scatter(df['Day'], df['predict'], color='m', label='HousVacant')
+  df = df.sort_values('Day')
+  plt.scatter(df['Day'], df['probability of event'], color='m', label='HousVacant')
   plt.show()
-  plt.scatter(df['Time'], df['predict'], color='m', label='HousVacant')
+  #plt.scatter(df['Time'], df['predict'], color='m', label='HousVacant')
+  #plt.show()
+  plt.scatter(df['Latitude'], df['probability of event'], color='m', label='HousVacant')
   plt.show()
-  plt.scatter(df['Latitude'], df['predict'], color='m', label='HousVacant')
-  plt.show()
-  plt.scatter(df['Longitude'], df['predict'], color='m', label='HousVacant')
+  plt.scatter(df['Longitude'], df['probability of event'], color='m', label='HousVacant')
   plt.show()
 
 #analyze("halfCrime.csv")
