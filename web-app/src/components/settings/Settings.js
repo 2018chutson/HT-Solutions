@@ -13,6 +13,7 @@ function Settings() {
             <h4>HT OUTPUT DATA</h4>
             <ToggleButtonGroup
                 name="value"
+                id="data-setting"
                 type="radio"
                 value={value}
                 onChange={handleChange}
