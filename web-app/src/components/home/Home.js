@@ -1,6 +1,7 @@
 import React from "react"
 import "./home.css"
-import Map from "../map/Map"
+// import Map from "../map/Map"
+import Map from "../map2/Map"
 import Sidebar from "../sidebar/Sidebar"
 
 class Home extends React.Component {
