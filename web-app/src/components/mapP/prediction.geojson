@@ -1,0 +1,7301 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.590699,41.293265 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Albany",
+    "Day":"1",
+    "Month":11,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8836670655417218"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.590884,41.311375 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Albany",
+    "Day":"1",
+    "Month":11,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8838086129636782"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.512499,44.276857 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Campbell",
+    "Day":"1",
+    "Month":11,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8902970131529153"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.501028,44.290889 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Campbell",
+    "Day":"1",
+    "Month":11,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8907122938064966"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.360806,42.741972 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Converse",
+    "Day":"1",
+    "Month":11,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9006936668483789"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.361943,42.742216 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Converse",
+    "Day":"1",
+    "Month":11,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9006447311140466"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.871472,42.860611 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Converse",
+    "Day":"1",
+    "Month":11,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8787282693981138"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.378417,44.405028 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Crook",
+    "Day":"1",
+    "Month":11,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9399801839952553"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.728639,42.834056 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Fremont",
+    "Day":"1",
+    "Month":11,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7577596908692468"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.38118,43.032035 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Fremont",
+    "Day":"1",
+    "Month":11,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7719623007741223"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.180639,42.066139 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Goshen",
+    "Day":"1",
+    "Month":11,
+    "Year":22,
+    "Time":18,
+    "predict":"0.949622885443435"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.209306,43.647251 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Hot Springs County",
+    "Day":"1",
+    "Month":11,
+    "Year":22,
+    "Time":18,
+    "predict":"0.777167165210928"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.708167,44.348167 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Johnson",
+    "Day":"1",
+    "Month":11,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8372988726931858"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.819028,41.133556 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Laramie",
+    "Day":"1",
+    "Month":11,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9150677491042247"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.769944,41.111001 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Laramie",
+    "Day":"1",
+    "Month":11,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9169483485470817"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.573417,41.794917 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Lincoln",
+    "Day":"1",
+    "Month":11,
+    "Year":22,
+    "Time":18,
+    "predict":"0.6818242766604934"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.533722,41.813861 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Lincoln",
+    "Day":"1",
+    "Month":11,
+    "Year":22,
+    "Time":18,
+    "predict":"0.683455699081597"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.326583,42.851528 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Natrona",
+    "Day":"1",
+    "Month":11,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8591409717176415"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.326306,42.851944 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Natrona",
+    "Day":"1",
+    "Month":11,
+    "Year":22,
+    "Time":18,
+    "predict":"0.859153015647955"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.270778,42.861333 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Natrona",
+    "Day":"1",
+    "Month":11,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8615397259357183"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.451583,42.763194 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Niobrara",
+    "Day":"1",
+    "Month":11,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9403870879748413"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.059501,44.533583 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Park",
+    "Day":"1",
+    "Month":11,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7345842974538574"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.060833,44.532722 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Park",
+    "Day":"1",
+    "Month":11,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7345365479291139"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.756833,44.754833 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Park",
+    "Day":"1",
+    "Month":11,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7451109490193533"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.952556,42.055361 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Platte",
+    "Day":"1",
+    "Month":11,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9160767134562251"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.953729,42.053447 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Platte",
+    "Day":"1",
+    "Month":11,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9160162864309516"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.955553,44.816688 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Sheridan",
+    "Day":"1",
+    "Month":11,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8222910693565586"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.956694,44.815028 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Sheridan",
+    "Day":"1",
+    "Month":11,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8222583040256941"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.466035,41.529638 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Sweetwater",
+    "Day":"1",
+    "Month":11,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7250758218921876"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.219842,41.585428 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Sweetwater",
+    "Day":"1",
+    "Month":11,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7352722592530165"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.301611,41.538441 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Sweetwater",
+    "Day":"1",
+    "Month":11,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7317441356478458"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.759835,43.478497 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Teton",
+    "Day":"1",
+    "Month":11,
+    "Year":22,
+    "Time":18,
+    "predict":"0.6722028014393446"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.966909,41.270009 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Uinta",
+    "Day":"1",
+    "Month":11,
+    "Year":22,
+    "Time":18,
+    "predict":"0.6642171911011392"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.92077,41.268837 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Uinta",
+    "Day":"1",
+    "Month":11,
+    "Year":22,
+    "Time":18,
+    "predict":"0.6660175587060335"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.954881,44.017911 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Washakie",
+    "Day":"1",
+    "Month":11,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7858603345938828"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.955812,44.017521 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Washakie",
+    "Day":"1",
+    "Month":11,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7858231734608445"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.204524,43.854688 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Weston",
+    "Day":"1",
+    "Month":11,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9505153671223467"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.203651,43.856293 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Weston",
+    "Day":"1",
+    "Month":11,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9505487426557031"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.590699,41.293265 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Albany",
+    "Day":"1",
+    "Month":0,
+    "Year":22,
+    "Time":18,
+    "predict":"0.926174787556846"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.590699,41.293265 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Albany",
+    "Day":"1",
+    "Month":1,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9345068424685963"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.590699,41.293265 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Albany",
+    "Day":"1",
+    "Month":2,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9403996187249941"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.590699,41.293265 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Albany",
+    "Day":"1",
+    "Month":3,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9438531163260404"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.590699,41.293265 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Albany",
+    "Day":"1",
+    "Month":4,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9448673352717334"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.590699,41.293265 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Albany",
+    "Day":"1",
+    "Month":5,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9434422755620739"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.590699,41.293265 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Albany",
+    "Day":"1",
+    "Month":6,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9395779371970627"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.590699,41.293265 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Albany",
+    "Day":"1",
+    "Month":7,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9332743201766993"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.590699,41.293265 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Albany",
+    "Day":"1",
+    "Month":8,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9245314245009835"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.590699,41.293265 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Albany",
+    "Day":"1",
+    "Month":9,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9133492501699156"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.590699,41.293265 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Albany",
+    "Day":"1",
+    "Month":10,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8997277971834954"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.590884,41.311375 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Albany",
+    "Day":"1",
+    "Month":0,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9263130473021652"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.590884,41.311375 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Albany",
+    "Day":"1",
+    "Month":1,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9346454224622796"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.590884,41.311375 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Albany",
+    "Day":"1",
+    "Month":2,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9405385146933074"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.590884,41.311375 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Albany",
+    "Day":"1",
+    "Month":3,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9439923239952486"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.590884,41.311375 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Albany",
+    "Day":"1",
+    "Month":4,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9450068503681042"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.590884,41.311375 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Albany",
+    "Day":"1",
+    "Month":5,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9435820938118733"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.590884,41.311375 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Albany",
+    "Day":"1",
+    "Month":6,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9397180543265562"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.590884,41.311375 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Albany",
+    "Day":"1",
+    "Month":7,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9334147319121529"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.590884,41.311375 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Albany",
+    "Day":"1",
+    "Month":8,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9246721265686633"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.590884,41.311375 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Albany",
+    "Day":"1",
+    "Month":9,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9134902382960879"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.590884,41.311375 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Albany",
+    "Day":"1",
+    "Month":10,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8998690670944258"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.512499,44.276857 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Campbell",
+    "Day":"1",
+    "Month":0,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9321748691970189"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.512499,44.276857 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Campbell",
+    "Day":"1",
+    "Month":1,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9405551520572106"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.512499,44.276857 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Campbell",
+    "Day":"1",
+    "Month":2,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9464979627809254"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.512499,44.276857 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Campbell",
+    "Day":"1",
+    "Month":3,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9500033013681639"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.512499,44.276857 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Campbell",
+    "Day":"1",
+    "Month":4,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9510711678189254"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.512499,44.276857 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Campbell",
+    "Day":"1",
+    "Month":5,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9497015621332106"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.512499,44.276857 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Campbell",
+    "Day":"1",
+    "Month":6,
+    "Year":22,
+    "Time":18,
+    "predict":"0.94589448431102"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.512499,44.276857 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Campbell",
+    "Day":"1",
+    "Month":7,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9396499343523512"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.512499,44.276857 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Campbell",
+    "Day":"1",
+    "Month":8,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9309679122572072"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.512499,44.276857 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Campbell",
+    "Day":"1",
+    "Month":9,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9198484180255861"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.512499,44.276857 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Campbell",
+    "Day":"1",
+    "Month":10,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9062914516574887"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.501028,44.290889 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Campbell",
+    "Day":"1",
+    "Month":0,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9325799573585973"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.501028,44.290889 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Campbell",
+    "Day":"1",
+    "Month":1,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9409598418359517"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.501028,44.290889 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Campbell",
+    "Day":"1",
+    "Month":2,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9469025191714331"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.501028,44.290889 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Campbell",
+    "Day":"1",
+    "Month":3,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9504079893650417"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.501028,44.290889 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Campbell",
+    "Day":"1",
+    "Month":4,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9514762524167781"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.501028,44.290889 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Campbell",
+    "Day":"1",
+    "Month":5,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9501073083266414"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.501028,44.290889 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Campbell",
+    "Day":"1",
+    "Month":6,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9463011570946323"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.501028,44.290889 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Campbell",
+    "Day":"1",
+    "Month":7,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9400577987207503"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.501028,44.290889 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Campbell",
+    "Day":"1",
+    "Month":8,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9313772332049961"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.501028,44.290889 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Campbell",
+    "Day":"1",
+    "Month":9,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9202594605473691"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.501028,44.290889 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Campbell",
+    "Day":"1",
+    "Month":10,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9067044807478692"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.360806,42.741972 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Converse",
+    "Day":"1",
+    "Month":0,
+    "Year":22,
+    "Time":18,
+    "predict":"0.942776639256647"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.360806,42.741972 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Converse",
+    "Day":"1",
+    "Month":1,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9511207536741415"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.360806,42.741972 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Converse",
+    "Day":"1",
+    "Month":2,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9570309002552595"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.360806,42.741972 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Converse",
+    "Day":"1",
+    "Month":3,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9605070790000014"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.360806,42.741972 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Converse",
+    "Day":"1",
+    "Month":4,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9615492899083662"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.360806,42.741972 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Converse",
+    "Day":"1",
+    "Month":5,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9601575329803547"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.360806,42.741972 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Converse",
+    "Day":"1",
+    "Month":6,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9563318082159673"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.360806,42.741972 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Converse",
+    "Day":"1",
+    "Month":7,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9500721156152023"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.360806,42.741972 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Converse",
+    "Day":"1",
+    "Month":8,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9413784551780613"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.360806,42.741972 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Converse",
+    "Day":"1",
+    "Month":9,
+    "Year":22,
+    "Time":18,
+    "predict":"0.930250826904544"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.360806,42.741972 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Converse",
+    "Day":"1",
+    "Month":10,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9166892307946499"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.361943,42.742216 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Converse",
+    "Day":"1",
+    "Month":0,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9427283873440804"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.361943,42.742216 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Converse",
+    "Day":"1",
+    "Month":1,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9510725709266479"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.361943,42.742216 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Converse",
+    "Day":"1",
+    "Month":2,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9569827604067014"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.361943,42.742216 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Converse",
+    "Day":"1",
+    "Month":3,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9604589557842409"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.361943,42.742216 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Converse",
+    "Day":"1",
+    "Month":4,
+    "Year":22,
+    "Time":18,
+    "predict":"0.961501157059266"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.361943,42.742216 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Converse",
+    "Day":"1",
+    "Month":5,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9601093642317773"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.361943,42.742216 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Converse",
+    "Day":"1",
+    "Month":6,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9562835773017742"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.361943,42.742216 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Converse",
+    "Day":"1",
+    "Month":7,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9500237962692568"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.361943,42.742216 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Converse",
+    "Day":"1",
+    "Month":8,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9413300211342253"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.361943,42.742216 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Converse",
+    "Day":"1",
+    "Month":9,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9302022518966799"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.361943,42.742216 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Converse",
+    "Day":"1",
+    "Month":10,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9166404885566206"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.871472,42.860611 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Converse",
+    "Day":"1",
+    "Month":0,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9211170895835477"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.871472,42.860611 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Converse",
+    "Day":"1",
+    "Month":1,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9294923848090837"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.871472,42.860611 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Converse",
+    "Day":"1",
+    "Month":2,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9354219151679588"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.871472,42.860611 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Converse",
+    "Day":"1",
+    "Month":3,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9389056806601739"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.871472,42.860611 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Converse",
+    "Day":"1",
+    "Month":4,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9399436812857282"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.871472,42.860611 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Converse",
+    "Day":"1",
+    "Month":5,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9385359170446221"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.871472,42.860611 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Converse",
+    "Day":"1",
+    "Month":6,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9346823879368551"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.871472,42.860611 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Converse",
+    "Day":"1",
+    "Month":7,
+    "Year":22,
+    "Time":18,
+    "predict":"0.928383093962428"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.871472,42.860611 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Converse",
+    "Day":"1",
+    "Month":8,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9196380351213407"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.871472,42.860611 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Converse",
+    "Day":"1",
+    "Month":9,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9084472114135922"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.871472,42.860611 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Converse",
+    "Day":"1",
+    "Month":10,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8948106228391832"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.378417,44.405028 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Crook",
+    "Day":"1",
+    "Month":0,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9811052149819723"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.378417,44.405028 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Crook",
+    "Day":"1",
+    "Month":1,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9894229428431014"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.378417,44.405028 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Crook",
+    "Day":"1",
+    "Month":2,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9953293972958821"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.378417,44.405028 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Crook",
+    "Day":"1",
+    "Month":3,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9988245783403149"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.378417,44.405028 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Crook",
+    "Day":"1",
+    "Month":4,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9999084859763996"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.378417,44.405028 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Crook",
+    "Day":"1",
+    "Month":5,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9985811202041368"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.378417,44.405028 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Crook",
+    "Day":"1",
+    "Month":6,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9948424810235266"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.378417,44.405028 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Crook",
+    "Day":"1",
+    "Month":7,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9886925684345678"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.378417,44.405028 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Crook",
+    "Day":"1",
+    "Month":8,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9801313824372619"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.378417,44.405028 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Crook",
+    "Day":"1",
+    "Month":9,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9691589230316076"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.378417,44.405028 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Crook",
+    "Day":"1",
+    "Month":10,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9557751902176055"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.728639,42.834056 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Fremont",
+    "Day":"1",
+    "Month":0,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8020128952379686"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.728639,42.834056 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Fremont",
+    "Day":"1",
+    "Month":1,
+    "Year":22,
+    "Time":18,
+    "predict":"0.810548721843749"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.728639,42.834056 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Fremont",
+    "Day":"1",
+    "Month":2,
+    "Year":22,
+    "Time":18,
+    "predict":"0.816572779412577"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.728639,42.834056 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Fremont",
+    "Day":"1",
+    "Month":3,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8200850679444551"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.728639,42.834056 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Fremont",
+    "Day":"1",
+    "Month":4,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8210855874393834"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.728639,42.834056 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Fremont",
+    "Day":"1",
+    "Month":5,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8195743378973583"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.728639,42.834056 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Fremont",
+    "Day":"1",
+    "Month":6,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8155513193183843"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.728639,42.834056 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Fremont",
+    "Day":"1",
+    "Month":7,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8090165317024582"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.728639,42.834056 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Fremont",
+    "Day":"1",
+    "Month":8,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7999699750495814"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.728639,42.834056 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Fremont",
+    "Day":"1",
+    "Month":9,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7884116493597544"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.728639,42.834056 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Fremont",
+    "Day":"1",
+    "Month":10,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7743415546329753"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.38118,43.032035 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Fremont",
+    "Day":"1",
+    "Month":0,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8159490121114787"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.38118,43.032035 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Fremont",
+    "Day":"1",
+    "Month":1,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8244689316453453"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.38118,43.032035 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Fremont",
+    "Day":"1",
+    "Month":2,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8304851088844858"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.38118,43.032035 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Fremont",
+    "Day":"1",
+    "Month":3,
+    "Year":22,
+    "Time":18,
+    "predict":"0.833997543828902"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.38118,43.032035 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Fremont",
+    "Day":"1",
+    "Month":4,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8350062364785931"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.38118,43.032035 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Fremont",
+    "Day":"1",
+    "Month":5,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8335111868335576"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.38118,43.032035 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Fremont",
+    "Day":"1",
+    "Month":6,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8295123948937979"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.38118,43.032035 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Fremont",
+    "Day":"1",
+    "Month":7,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8230098606593135"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.38118,43.032035 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Fremont",
+    "Day":"1",
+    "Month":8,
+    "Year":22,
+    "Time":18,
+    "predict":"0.814003584130103"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.38118,43.032035 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Fremont",
+    "Day":"1",
+    "Month":9,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8024935653061682"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.38118,43.032035 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Fremont",
+    "Day":"1",
+    "Month":10,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7884798041875074"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.180639,42.066139 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Goshen",
+    "Day":"1",
+    "Month":0,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9910797462137437"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.180639,42.066139 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Goshen",
+    "Day":"1",
+    "Month":1,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9993444631215611"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.180639,42.066139 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Goshen",
+    "Day":"1",
+    "Month":2,
+    "Year":22,
+    "Time":18,
+    "predict":"1.0052024755429"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.180639,42.066139 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Goshen",
+    "Day":"1",
+    "Month":3,
+    "Year":22,
+    "Time":18,
+    "predict":"1.008653783477761"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.180639,42.066139 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Goshen",
+    "Day":"1",
+    "Month":4,
+    "Year":22,
+    "Time":18,
+    "predict":"1.0096983869261438"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.180639,42.066139 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Goshen",
+    "Day":"1",
+    "Month":5,
+    "Year":22,
+    "Time":18,
+    "predict":"1.0083362858880478"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.180639,42.066139 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Goshen",
+    "Day":"1",
+    "Month":6,
+    "Year":22,
+    "Time":18,
+    "predict":"1.0045674803634743"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.180639,42.066139 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Goshen",
+    "Day":"1",
+    "Month":7,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9983919703524229"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.180639,42.066139 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Goshen",
+    "Day":"1",
+    "Month":8,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9898097558548928"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.180639,42.066139 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Goshen",
+    "Day":"1",
+    "Month":9,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9788208368708848"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.180639,42.066139 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Goshen",
+    "Day":"1",
+    "Month":10,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9654252134003989"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.209306,43.647251 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Hot Springs County",
+    "Day":"1",
+    "Month":0,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8209201853984935"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.209306,43.647251 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Hot Springs County",
+    "Day":"1",
+    "Month":1,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8294414970487569"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.209306,43.647251 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Hot Springs County",
+    "Day":"1",
+    "Month":2,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8354630369110114"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.209306,43.647251 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Hot Springs County",
+    "Day":"1",
+    "Month":3,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8389848049852584"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.209306,43.647251 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Hot Springs County",
+    "Day":"1",
+    "Month":4,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8400068012714961"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.209306,43.647251 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Hot Springs County",
+    "Day":"1",
+    "Month":5,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8385290257697262"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.209306,43.647251 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Hot Springs County",
+    "Day":"1",
+    "Month":6,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8345514784799475"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.209306,43.647251 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Hot Springs County",
+    "Day":"1",
+    "Month":7,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8280741594021599"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.209306,43.647251 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Hot Springs County",
+    "Day":"1",
+    "Month":8,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8190970685363643"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.209306,43.647251 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Hot Springs County",
+    "Day":"1",
+    "Month":9,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8076202058825608"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.209306,43.647251 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Hot Springs County",
+    "Day":"1",
+    "Month":10,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7936435714407484"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.708167,44.348167 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Johnson",
+    "Day":"1",
+    "Month":0,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8799345438957111"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.708167,44.348167 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Johnson",
+    "Day":"1",
+    "Month":1,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8883840416817632"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.708167,44.348167 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Johnson",
+    "Day":"1",
+    "Month":2,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8943684458887393"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.708167,44.348167 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Johnson",
+    "Day":"1",
+    "Month":3,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8978877565166414"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.708167,44.348167 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Johnson",
+    "Day":"1",
+    "Month":4,
+    "Year":22,
+    "Time":18,
+    "predict":"0.89894197356547"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.708167,44.348167 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Johnson",
+    "Day":"1",
+    "Month":5,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8975310970352239"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.708167,44.348167 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Johnson",
+    "Day":"1",
+    "Month":6,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8936551269259032"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.708167,44.348167 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Johnson",
+    "Day":"1",
+    "Month":7,
+    "Year":22,
+    "Time":18,
+    "predict":"0.887314063237508"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.708167,44.348167 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Johnson",
+    "Day":"1",
+    "Month":8,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8785079059700389"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.708167,44.348167 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Johnson",
+    "Day":"1",
+    "Month":9,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8672366551234956"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.708167,44.348167 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Johnson",
+    "Day":"1",
+    "Month":10,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8535003106978776"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.819028,41.133556 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Laramie",
+    "Day":"1",
+    "Month":0,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9571094939756972"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.819028,41.133556 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Laramie",
+    "Day":"1",
+    "Month":1,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9653947775669727"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.819028,41.133556 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Laramie",
+    "Day":"1",
+    "Month":2,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9712586090786943"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.819028,41.133556 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Laramie",
+    "Day":"1",
+    "Month":3,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9747009885108606"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.819028,41.133556 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Laramie",
+    "Day":"1",
+    "Month":4,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9757219158634718"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.819028,41.133556 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Laramie",
+    "Day":"1",
+    "Month":5,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9743213911365283"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.819028,41.133556 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Laramie",
+    "Day":"1",
+    "Month":6,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9704994143300314"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.819028,41.133556 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Laramie",
+    "Day":"1",
+    "Month":7,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9642559854439794"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.819028,41.133556 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Laramie",
+    "Day":"1",
+    "Month":8,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9555911044783725"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.819028,41.133556 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Laramie",
+    "Day":"1",
+    "Month":9,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9445047714332113"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.819028,41.133556 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Laramie",
+    "Day":"1",
+    "Month":10,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9309969863084955"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.769944,41.111001 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Laramie",
+    "Day":"1",
+    "Month":0,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9589628494016476"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.769944,41.111001 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Laramie",
+    "Day":"1",
+    "Month":1,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9672449402094245"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.769944,41.111001 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Laramie",
+    "Day":"1",
+    "Month":2,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9731067128401092"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.769944,41.111001 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Laramie",
+    "Day":"1",
+    "Month":3,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9765481672937002"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.769944,41.111001 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Laramie",
+    "Day":"1",
+    "Month":4,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9775693035701982"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.769944,41.111001 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Laramie",
+    "Day":"1",
+    "Month":5,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9761701216696035"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.769944,41.111001 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Laramie",
+    "Day":"1",
+    "Month":6,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9723506215919158"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.769944,41.111001 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Laramie",
+    "Day":"1",
+    "Month":7,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9661108033371353"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.769944,41.111001 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Laramie",
+    "Day":"1",
+    "Month":8,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9574506669052607"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.769944,41.111001 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Laramie",
+    "Day":"1",
+    "Month":9,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9463702122962945"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.769944,41.111001 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Laramie",
+    "Day":"1",
+    "Month":10,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9328694395102348"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.573417,41.794917 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Lincoln",
+    "Day":"1",
+    "Month":0,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7274957668816668"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.573417,41.794917 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Lincoln",
+    "Day":"1",
+    "Month":1,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7361157419316009"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.573417,41.794917 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Lincoln",
+    "Day":"1",
+    "Month":2,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7421813312402525"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.573417,41.794917 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Lincoln",
+    "Day":"1",
+    "Month":3,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7456925348076249"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.573417,41.794917 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Lincoln",
+    "Day":"1",
+    "Month":4,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7466493526337166"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.573417,41.794917 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Lincoln",
+    "Day":"1",
+    "Month":5,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7450517847185267"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.573417,41.794917 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Lincoln",
+    "Day":"1",
+    "Month":6,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7408998310620563"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.573417,41.794917 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Lincoln",
+    "Day":"1",
+    "Month":7,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7341934916643051"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.573417,41.794917 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Lincoln",
+    "Day":"1",
+    "Month":8,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7249327665252734"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.573417,41.794917 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Lincoln",
+    "Day":"1",
+    "Month":9,
+    "Year":22,
+    "Time":18,
+    "predict":"0.713117655644961"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.573417,41.794917 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Lincoln",
+    "Day":"1",
+    "Month":10,
+    "Year":22,
+    "Time":18,
+    "predict":"0.6987481590233671"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.533722,41.813861 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Lincoln",
+    "Day":"1",
+    "Month":0,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7290972223922534"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.533722,41.813861 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Lincoln",
+    "Day":"1",
+    "Month":1,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7377153366833284"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.533722,41.813861 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Lincoln",
+    "Day":"1",
+    "Month":2,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7437799822378128"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.533722,41.813861 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Lincoln",
+    "Day":"1",
+    "Month":3,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7472911590557065"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.533722,41.813861 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Lincoln",
+    "Day":"1",
+    "Month":4,
+    "Year":22,
+    "Time":18,
+    "predict":"0.74824886713701"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.533722,41.813861 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Lincoln",
+    "Day":"1",
+    "Month":5,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7466531064817232"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.533722,41.813861 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Lincoln",
+    "Day":"1",
+    "Month":6,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7425038770898444"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.533722,41.813861 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Lincoln",
+    "Day":"1",
+    "Month":7,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7358011789613759"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.533722,41.813861 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Lincoln",
+    "Day":"1",
+    "Month":8,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7265450120963175"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.533722,41.813861 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Lincoln",
+    "Day":"1",
+    "Month":9,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7147353764946676"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.533722,41.813861 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Lincoln",
+    "Day":"1",
+    "Month":10,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7003722721564274"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.326583,42.851528 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Natrona",
+    "Day":"1",
+    "Month":0,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9018255451699606"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.326583,42.851528 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Natrona",
+    "Day":"1",
+    "Month":1,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9102265219325729"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.326583,42.851528 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Natrona",
+    "Day":"1",
+    "Month":2,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9161712201889844"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.326583,42.851528 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Natrona",
+    "Day":"1",
+    "Month":3,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9196596399391948"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.326583,42.851528 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Natrona",
+    "Day":"1",
+    "Month":4,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9206917811832047"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.326583,42.851528 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Natrona",
+    "Day":"1",
+    "Month":5,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9192676439210135"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.326583,42.851528 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Natrona",
+    "Day":"1",
+    "Month":6,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9153872281526207"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.326583,42.851528 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Natrona",
+    "Day":"1",
+    "Month":7,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9090505338780268"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.326583,42.851528 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Natrona",
+    "Day":"1",
+    "Month":8,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9002575610972319"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.326583,42.851528 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Natrona",
+    "Day":"1",
+    "Month":9,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8890083098102359"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.326583,42.851528 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Natrona",
+    "Day":"1",
+    "Month":10,
+    "Year":22,
+    "Time":18,
+    "predict":"0.875302780017039"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.326306,42.851944 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Natrona",
+    "Day":"1",
+    "Month":0,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9018373289483825"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.326306,42.851944 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Natrona",
+    "Day":"1",
+    "Month":1,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9102382973659158"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.326306,42.851944 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Natrona",
+    "Day":"1",
+    "Month":2,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9161829936762984"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.326306,42.851944 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Natrona",
+    "Day":"1",
+    "Month":3,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9196714178795304"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.326306,42.851944 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Natrona",
+    "Day":"1",
+    "Month":4,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9207035699756116"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.326306,42.851944 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Natrona",
+    "Day":"1",
+    "Month":5,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9192794499645414"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.326306,42.851944 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Natrona",
+    "Day":"1",
+    "Month":6,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9153990578463205"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.326306,42.851944 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Natrona",
+    "Day":"1",
+    "Month":7,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9090623936209488"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.326306,42.851944 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Natrona",
+    "Day":"1",
+    "Month":8,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9002694572884267"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.326306,42.851944 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Natrona",
+    "Day":"1",
+    "Month":9,
+    "Year":22,
+    "Time":18,
+    "predict":"0.889020248848754"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.326306,42.851944 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Natrona",
+    "Day":"1",
+    "Month":10,
+    "Year":22,
+    "Time":18,
+    "predict":"0.87531476830193"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.270778,42.861333 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Natrona",
+    "Day":"1",
+    "Month":0,
+    "Year":22,
+    "Time":18,
+    "predict":"0.904186298664851"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.270778,42.861333 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Natrona",
+    "Day":"1",
+    "Month":1,
+    "Year":22,
+    "Time":18,
+    "predict":"0.912584284208364"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.270778,42.861333 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Natrona",
+    "Day":"1",
+    "Month":2,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9185272804117361"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.270778,42.861333 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Natrona",
+    "Day":"1",
+    "Month":3,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9220152872749663"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.270778,42.861333 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Natrona",
+    "Day":"1",
+    "Month":4,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9230483047980556"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.270778,42.861333 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Natrona",
+    "Day":"1",
+    "Month":5,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9216263329810033"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.270778,42.861333 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Natrona",
+    "Day":"1",
+    "Month":6,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9177493718238092"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.270778,42.861333 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Natrona",
+    "Day":"1",
+    "Month":7,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9114174213264739"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.270778,42.861333 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Natrona",
+    "Day":"1",
+    "Month":8,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9026304814889974"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.270778,42.861333 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Natrona",
+    "Day":"1",
+    "Month":9,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8913885523113789"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.270778,42.861333 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Natrona",
+    "Day":"1",
+    "Month":10,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8776916337936189"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.451583,42.763194 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Niobrara",
+    "Day":"1",
+    "Month":0,
+    "Year":22,
+    "Time":18,
+    "predict":"0.98188289377737"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.451583,42.763194 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Niobrara",
+    "Day":"1",
+    "Month":1,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9901753659726149"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.451583,42.763194 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Niobrara",
+    "Day":"1",
+    "Month":2,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9960548745324023"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.451583,42.763194 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Niobrara",
+    "Day":"1",
+    "Month":3,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9995214194567299"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.451583,42.763194 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Niobrara",
+    "Day":"1",
+    "Month":4,
+    "Year":22,
+    "Time":18,
+    "predict":"1.0005750007455987"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.451583,42.763194 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Niobrara",
+    "Day":"1",
+    "Month":5,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9992156183990095"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.451583,42.763194 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Niobrara",
+    "Day":"1",
+    "Month":6,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9954432724169615"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.451583,42.763194 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Niobrara",
+    "Day":"1",
+    "Month":7,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9892579627994544"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.451583,42.763194 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Niobrara",
+    "Day":"1",
+    "Month":8,
+    "Year":22,
+    "Time":18,
+    "predict":"0.980659689546489"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.451583,42.763194 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Niobrara",
+    "Day":"1",
+    "Month":9,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9696484526580653"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.451583,42.763194 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Niobrara",
+    "Day":"1",
+    "Month":10,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9562242521341828"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.059501,44.533583 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Park",
+    "Day":"1",
+    "Month":0,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7787174790884297"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.059501,44.533583 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Park",
+    "Day":"1",
+    "Month":1,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7873024335045624"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.059501,44.533583 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Park",
+    "Day":"1",
+    "Month":2,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7933679755532035"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.059501,44.533583 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Park",
+    "Day":"1",
+    "Month":3,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7969141052343538"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.059501,44.533583 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Park",
+    "Day":"1",
+    "Month":4,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7979408225480116"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.059501,44.533583 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Park",
+    "Day":"1",
+    "Month":5,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7964481274941786"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.059501,44.533583 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Park",
+    "Day":"1",
+    "Month":6,
+    "Year":22,
+    "Time":18,
+    "predict":"0.792436020072854"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.059501,44.533583 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Park",
+    "Day":"1",
+    "Month":7,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7859045002840372"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.059501,44.533583 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Park",
+    "Day":"1",
+    "Month":8,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7768535681277298"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.059501,44.533583 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Park",
+    "Day":"1",
+    "Month":9,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7652832236039302"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.059501,44.533583 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Park",
+    "Day":"1",
+    "Month":10,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7511934667126399"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.060833,44.532722 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Park",
+    "Day":"1",
+    "Month":0,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7786707791787997"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.060833,44.532722 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Park",
+    "Day":"1",
+    "Month":1,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7872557920297973"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.060833,44.532722 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Park",
+    "Day":"1",
+    "Month":2,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7933213617424197"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.060833,44.532722 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Park",
+    "Day":"1",
+    "Month":3,
+    "Year":22,
+    "Time":18,
+    "predict":"0.796867488316666"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.060833,44.532722 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Park",
+    "Day":"1",
+    "Month":4,
+    "Year":22,
+    "Time":18,
+    "predict":"0.797894171752537"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.060833,44.532722 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Park",
+    "Day":"1",
+    "Month":5,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7964014120500327"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.060833,44.532722 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Park",
+    "Day":"1",
+    "Month":6,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7923892092091522"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.060833,44.532722 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Park",
+    "Day":"1",
+    "Month":7,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7858575632298956"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.060833,44.532722 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Park",
+    "Day":"1",
+    "Month":8,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7768064741122638"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.060833,44.532722 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Park",
+    "Day":"1",
+    "Month":9,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7652359418562558"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.060833,44.532722 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Park",
+    "Day":"1",
+    "Month":10,
+    "Year":22,
+    "Time":18,
+    "predict":"0.751145966461872"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.756833,44.754833 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Park",
+    "Day":"1",
+    "Month":0,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7890005467937495"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.756833,44.754833 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Park",
+    "Day":"1",
+    "Month":1,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7975726851297091"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.756833,44.754833 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Park",
+    "Day":"1",
+    "Month":2,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8036324031116711"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.756833,44.754833 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Park",
+    "Day":"1",
+    "Month":3,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8071797007396322"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.756833,44.754833 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Park",
+    "Day":"1",
+    "Month":4,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8082145780135952"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.756833,44.754833 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Park",
+    "Day":"1",
+    "Month":5,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8067370349335587"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.756833,44.754833 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Park",
+    "Day":"1",
+    "Month":6,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8027470714995228"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.756833,44.754833 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Park",
+    "Day":"1",
+    "Month":7,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7962446877114875"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.756833,44.754833 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Park",
+    "Day":"1",
+    "Month":8,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7872298835694522"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.756833,44.754833 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Park",
+    "Day":"1",
+    "Month":9,
+    "Year":22,
+    "Time":18,
+    "predict":"0.775702659073418"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.756833,44.754833 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Park",
+    "Day":"1",
+    "Month":10,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7616630142233847"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.952556,42.055361 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Platte",
+    "Day":"1",
+    "Month":0,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9580296859318134"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.952556,42.055361 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Platte",
+    "Day":"1",
+    "Month":1,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9663384630690575"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.952556,42.055361 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Platte",
+    "Day":"1",
+    "Month":2,
+    "Year":22,
+    "Time":18,
+    "predict":"0.972222703461116"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.952556,42.055361 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Platte",
+    "Day":"1",
+    "Month":3,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9756824071079864"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.952556,42.055361 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Platte",
+    "Day":"1",
+    "Month":4,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9767175740096703"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.952556,42.055361 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Platte",
+    "Day":"1",
+    "Month":5,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9753282041661668"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.952556,42.055361 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Platte",
+    "Day":"1",
+    "Month":6,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9715142975774778"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.952556,42.055361 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Platte",
+    "Day":"1",
+    "Month":7,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9652758542436006"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.952556,42.055361 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Platte",
+    "Day":"1",
+    "Month":8,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9566128741645368"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.952556,42.055361 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Platte",
+    "Day":"1",
+    "Month":9,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9455253573402866"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.952556,42.055361 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Platte",
+    "Day":"1",
+    "Month":10,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9320133037708493"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.953729,42.053447 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Platte",
+    "Day":"1",
+    "Month":0,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9579703772627135"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.953729,42.053447 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Platte",
+    "Day":"1",
+    "Month":1,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9662791882201303"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.953729,42.053447 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Platte",
+    "Day":"1",
+    "Month":2,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9721634353345783"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.953729,42.053447 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Platte",
+    "Day":"1",
+    "Month":3,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9756231186060549"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.953729,42.053447 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Platte",
+    "Day":"1",
+    "Month":4,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9766582380345621"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.953729,42.053447 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Platte",
+    "Day":"1",
+    "Month":5,
+    "Year":22,
+    "Time":18,
+    "predict":"0.975268793620099"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.953729,42.053447 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Platte",
+    "Day":"1",
+    "Month":6,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9714547853626658"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.953729,42.053447 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Platte",
+    "Day":"1",
+    "Month":7,
+    "Year":22,
+    "Time":18,
+    "predict":"0.965216213262263"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.953729,42.053447 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Platte",
+    "Day":"1",
+    "Month":8,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9565530773188899"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.953729,42.053447 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Platte",
+    "Day":"1",
+    "Month":9,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9454653775325477"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.953729,42.053447 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Platte",
+    "Day":"1",
+    "Month":10,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9319531139032344"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.955553,44.816688 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Sheridan",
+    "Day":"1",
+    "Month":0,
+    "Year":22,
+    "Time":18,
+    "predict":"0.864992609039045"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.955553,44.816688 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Sheridan",
+    "Day":"1",
+    "Month":1,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8734646934284327"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.955553,44.816688 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Sheridan",
+    "Day":"1",
+    "Month":2,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8794659693093516"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.955553,44.816688 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Sheridan",
+    "Day":"1",
+    "Month":3,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8829964366818026"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.955553,44.816688 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Sheridan",
+    "Day":"1",
+    "Month":4,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8840560955457857"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.955553,44.816688 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Sheridan",
+    "Day":"1",
+    "Month":5,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8826449459013004"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.955553,44.816688 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Sheridan",
+    "Day":"1",
+    "Month":6,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8787629877483472"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.955553,44.816688 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Sheridan",
+    "Day":"1",
+    "Month":7,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8724102210869256"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.955553,44.816688 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Sheridan",
+    "Day":"1",
+    "Month":8,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8635866459170356"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.955553,44.816688 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Sheridan",
+    "Day":"1",
+    "Month":9,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8522922622386782"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.955553,44.816688 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Sheridan",
+    "Day":"1",
+    "Month":10,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8385270700518515"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.956694,44.815028 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Sheridan",
+    "Day":"1",
+    "Month":0,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8649609209896285"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.956694,44.815028 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Sheridan",
+    "Day":"1",
+    "Month":1,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8734330392370522"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.956694,44.815028 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Sheridan",
+    "Day":"1",
+    "Month":2,
+    "Year":22,
+    "Time":18,
+    "predict":"0.879434322617465"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.956694,44.815028 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Sheridan",
+    "Day":"1",
+    "Month":3,
+    "Year":22,
+    "Time":18,
+    "predict":"0.882964771130867"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.956694,44.815028 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Sheridan",
+    "Day":"1",
+    "Month":4,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8840243847772591"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.956694,44.815028 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Sheridan",
+    "Day":"1",
+    "Month":5,
+    "Year":22,
+    "Time":18,
+    "predict":"0.882613163556639"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.956694,44.815028 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Sheridan",
+    "Day":"1",
+    "Month":6,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8787311074690085"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.956694,44.815028 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Sheridan",
+    "Day":"1",
+    "Month":7,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8723782165143668"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.956694,44.815028 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Sheridan",
+    "Day":"1",
+    "Month":8,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8635544906927155"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.956694,44.815028 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Sheridan",
+    "Day":"1",
+    "Month":9,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8522599300040525"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.956694,44.815028 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Sheridan",
+    "Day":"1",
+    "Month":10,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8384945344483787"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.466035,41.529638 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Sweetwater",
+    "Day":"1",
+    "Month":0,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7700650758825542"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.466035,41.529638 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Sweetwater",
+    "Day":"1",
+    "Month":1,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7786191627861685"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.466035,41.529638 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Sweetwater",
+    "Day":"1",
+    "Month":2,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7846444458728721"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.466035,41.529638 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Sweetwater",
+    "Day":"1",
+    "Month":3,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7881409251426641"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.466035,41.529638 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Sweetwater",
+    "Day":"1",
+    "Month":4,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7891086005955446"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.466035,41.529638 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Sweetwater",
+    "Day":"1",
+    "Month":5,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7875474722315139"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.466035,41.529638 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Sweetwater",
+    "Day":"1",
+    "Month":6,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7834575400505708"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.466035,41.529638 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Sweetwater",
+    "Day":"1",
+    "Month":7,
+    "Year":22,
+    "Time":18,
+    "predict":"0.776838804052717"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.466035,41.529638 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Sweetwater",
+    "Day":"1",
+    "Month":8,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7676912642379516"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.466035,41.529638 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Sweetwater",
+    "Day":"1",
+    "Month":9,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7560149206062752"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.466035,41.529638 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Sweetwater",
+    "Day":"1",
+    "Month":10,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7418097731576871"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.219842,41.585428 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Sweetwater",
+    "Day":"1",
+    "Month":0,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7800886788762389"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.219842,41.585428 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Sweetwater",
+    "Day":"1",
+    "Month":1,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7886300411471217"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.219842,41.585428 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Sweetwater",
+    "Day":"1",
+    "Month":2,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7946482869706784"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.219842,41.585428 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Sweetwater",
+    "Day":"1",
+    "Month":3,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7981434163469086"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.219842,41.585428 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Sweetwater",
+    "Day":"1",
+    "Month":4,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7991154292758136"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.219842,41.585428 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Sweetwater",
+    "Day":"1",
+    "Month":5,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7975643257573921"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.219842,41.585428 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Sweetwater",
+    "Day":"1",
+    "Month":6,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7934901057916446"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.219842,41.585428 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Sweetwater",
+    "Day":"1",
+    "Month":7,
+    "Year":22,
+    "Time":18,
+    "predict":"0.786892769378571"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.219842,41.585428 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Sweetwater",
+    "Day":"1",
+    "Month":8,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7777723165181714"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.219842,41.585428 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Sweetwater",
+    "Day":"1",
+    "Month":9,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7661287472104457"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.219842,41.585428 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Sweetwater",
+    "Day":"1",
+    "Month":10,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7519620614553943"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.301611,41.538441 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Sweetwater",
+    "Day":"1",
+    "Month":0,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7766233340989679"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.301611,41.538441 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Sweetwater",
+    "Day":"1",
+    "Month":1,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7851684340401199"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.301611,41.538441 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Sweetwater",
+    "Day":"1",
+    "Month":2,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7911885285666571"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.301611,41.538441 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Sweetwater",
+    "Day":"1",
+    "Month":3,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7946836176785799"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.301611,41.538441 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Sweetwater",
+    "Day":"1",
+    "Month":4,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7956537013758891"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.301611,41.538441 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Sweetwater",
+    "Day":"1",
+    "Month":5,
+    "Year":22,
+    "Time":18,
+    "predict":"0.794098779658583"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.301611,41.538441 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Sweetwater",
+    "Day":"1",
+    "Month":6,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7900188525266634"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.301611,41.538441 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Sweetwater",
+    "Day":"1",
+    "Month":7,
+    "Year":22,
+    "Time":18,
+    "predict":"0.783413919980128"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.301611,41.538441 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Sweetwater",
+    "Day":"1",
+    "Month":8,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7742839820189791"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.301611,41.538441 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Sweetwater",
+    "Day":"1",
+    "Month":9,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7626290386432153"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.301611,41.538441 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Sweetwater",
+    "Day":"1",
+    "Month":10,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7484490898528371"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.759835,43.478497 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Teton",
+    "Day":"1",
+    "Month":0,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7176706728980857"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.759835,43.478497 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Teton",
+    "Day":"1",
+    "Month":1,
+    "Year":22,
+    "Time":18,
+    "predict":"0.726330691202135"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.759835,43.478497 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Teton",
+    "Day":"1",
+    "Month":2,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7324320172733962"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.759835,43.478497 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Teton",
+    "Day":"1",
+    "Month":3,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7359746511118717"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.759835,43.478497 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Teton",
+    "Day":"1",
+    "Month":4,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7369585927175608"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.759835,43.478497 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Teton",
+    "Day":"1",
+    "Month":5,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7353838420904615"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.759835,43.478497 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Teton",
+    "Day":"1",
+    "Month":6,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7312503992305759"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.759835,43.478497 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Teton",
+    "Day":"1",
+    "Month":7,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7245582641379031"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.759835,43.478497 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Teton",
+    "Day":"1",
+    "Month":8,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7153074368124437"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.759835,43.478497 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Teton",
+    "Day":"1",
+    "Month":9,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7034979172541975"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.759835,43.478497 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Teton",
+    "Day":"1",
+    "Month":10,
+    "Year":22,
+    "Time":18,
+    "predict":"0.6891297054631642"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.966909,41.270009 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Uinta",
+    "Day":"1",
+    "Month":0,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7102499208170476"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.966909,41.270009 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Uinta",
+    "Day":"1",
+    "Month":1,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7188825067265627"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.966909,41.270009 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Uinta",
+    "Day":"1",
+    "Month":2,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7249516167320671"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.966909,41.270009 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Uinta",
+    "Day":"1",
+    "Month":3,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7284572508335616"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.966909,41.270009 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Uinta",
+    "Day":"1",
+    "Month":4,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7293994090310454"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.966909,41.270009 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Uinta",
+    "Day":"1",
+    "Month":5,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7277780913245184"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.966909,41.270009 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Uinta",
+    "Day":"1",
+    "Month":6,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7235932977139816"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.966909,41.270009 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Uinta",
+    "Day":"1",
+    "Month":7,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7168450281994341"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.966909,41.270009 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Uinta",
+    "Day":"1",
+    "Month":8,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7075332827808758"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.966909,41.270009 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Uinta",
+    "Day":"1",
+    "Month":9,
+    "Year":22,
+    "Time":18,
+    "predict":"0.6956580614583077"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.966909,41.270009 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Uinta",
+    "Day":"1",
+    "Month":10,
+    "Year":22,
+    "Time":18,
+    "predict":"0.6812193642317288"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.92077,41.268837 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Uinta",
+    "Day":"1",
+    "Month":0,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7120198088707839"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.92077,41.268837 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Uinta",
+    "Day":"1",
+    "Month":1,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7206498363023961"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.92077,41.268837 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Uinta",
+    "Day":"1",
+    "Month":2,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7267174536992362"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.92077,41.268837 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Uinta",
+    "Day":"1",
+    "Month":3,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7302226610613038"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.92077,41.268837 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Uinta",
+    "Day":"1",
+    "Month":4,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7311654583885989"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.92077,41.268837 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Uinta",
+    "Day":"1",
+    "Month":5,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7295458456811215"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.92077,41.268837 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Uinta",
+    "Day":"1",
+    "Month":6,
+    "Year":22,
+    "Time":18,
+    "predict":"0.725363822938871"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.92077,41.268837 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Uinta",
+    "Day":"1",
+    "Month":7,
+    "Year":22,
+    "Time":18,
+    "predict":"0.718619390161849"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.92077,41.268837 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Uinta",
+    "Day":"1",
+    "Month":8,
+    "Year":22,
+    "Time":18,
+    "predict":"0.7093125473500539"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.92077,41.268837 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Uinta",
+    "Day":"1",
+    "Month":9,
+    "Year":22,
+    "Time":18,
+    "predict":"0.6974432945034854"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.92077,41.268837 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Uinta",
+    "Day":"1",
+    "Month":10,
+    "Year":22,
+    "Time":18,
+    "predict":"0.6830116316221457"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.954881,44.017911 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Washakie",
+    "Day":"1",
+    "Month":0,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8293732953327657"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.954881,44.017911 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Washakie",
+    "Day":"1",
+    "Month":1,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8378870428733034"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.954881,44.017911 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Washakie",
+    "Day":"1",
+    "Month":2,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8439068961650262"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.954881,44.017911 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Washakie",
+    "Day":"1",
+    "Month":3,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8474328552079351"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.954881,44.017911 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Washakie",
+    "Day":"1",
+    "Month":4,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8484649200020291"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.954881,44.017911 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Washakie",
+    "Day":"1",
+    "Month":5,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8470030905473083"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.954881,44.017911 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Washakie",
+    "Day":"1",
+    "Month":6,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8430473668437739"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.954881,44.017911 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Washakie",
+    "Day":"1",
+    "Month":7,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8365977488914247"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.954881,44.017911 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Washakie",
+    "Day":"1",
+    "Month":8,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8276542366902602"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.954881,44.017911 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Washakie",
+    "Day":"1",
+    "Month":9,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8162168302402821"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.954881,44.017911 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Washakie",
+    "Day":"1",
+    "Month":10,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8022855295414892"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.955812,44.017521 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Washakie",
+    "Day":"1",
+    "Month":0,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8293368201443858"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.955812,44.017521 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Washakie",
+    "Day":"1",
+    "Month":1,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8378506128627032"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.955812,44.017521 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Washakie",
+    "Day":"1",
+    "Month":2,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8438704898249298"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.955812,44.017521 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Washakie",
+    "Day":"1",
+    "Month":3,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8473964510310639"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.955812,44.017521 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Washakie",
+    "Day":"1",
+    "Month":4,
+    "Year":22,
+    "Time":18,
+    "predict":"0.848428496481108"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.955812,44.017521 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Washakie",
+    "Day":"1",
+    "Month":5,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8469666261750586"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.955812,44.017521 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Washakie",
+    "Day":"1",
+    "Month":6,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8430108401129188"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.955812,44.017521 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Washakie",
+    "Day":"1",
+    "Month":7,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8365611382946874"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.955812,44.017521 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Washakie",
+    "Day":"1",
+    "Month":8,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8276175207203638"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.955812,44.017521 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Washakie",
+    "Day":"1",
+    "Month":9,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8161799873899489"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.955812,44.017521 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Washakie",
+    "Day":"1",
+    "Month":10,
+    "Year":22,
+    "Time":18,
+    "predict":"0.8022485383034423"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.204524,43.854688 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Weston",
+    "Day":"1",
+    "Month":0,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9916391860497169"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.204524,43.854688 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Weston",
+    "Day":"1",
+    "Month":1,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9999369383572108"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.204524,43.854688 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Weston",
+    "Day":"1",
+    "Month":2,
+    "Year":22,
+    "Time":18,
+    "predict":"1.0058274344045262"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.204524,43.854688 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Weston",
+    "Day":"1",
+    "Month":3,
+    "Year":22,
+    "Time":18,
+    "predict":"1.0093106741916635"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.204524,43.854688 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Weston",
+    "Day":"1",
+    "Month":4,
+    "Year":22,
+    "Time":18,
+    "predict":"1.0103866577186231"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.204524,43.854688 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Weston",
+    "Day":"1",
+    "Month":5,
+    "Year":22,
+    "Time":18,
+    "predict":"1.0090553849854036"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.204524,43.854688 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Weston",
+    "Day":"1",
+    "Month":6,
+    "Year":22,
+    "Time":18,
+    "predict":"1.0053168559920065"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.204524,43.854688 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Weston",
+    "Day":"1",
+    "Month":7,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9991710707384309"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.204524,43.854688 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Weston",
+    "Day":"1",
+    "Month":8,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9906180292246771"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.204524,43.854688 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Weston",
+    "Day":"1",
+    "Month":9,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9796577314507458"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.204524,43.854688 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Weston",
+    "Day":"1",
+    "Month":10,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9662901774166355"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.203651,43.856293 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Weston",
+    "Day":"1",
+    "Month":0,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9916716858660939"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.203651,43.856293 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Weston",
+    "Day":"1",
+    "Month":1,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9999694169472031"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.203651,43.856293 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Weston",
+    "Day":"1",
+    "Month":2,
+    "Year":22,
+    "Time":18,
+    "predict":"1.0058599119355387"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.203651,43.856293 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Weston",
+    "Day":"1",
+    "Month":3,
+    "Year":22,
+    "Time":18,
+    "predict":"1.009343170831099"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.203651,43.856293 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Weston",
+    "Day":"1",
+    "Month":4,
+    "Year":22,
+    "Time":18,
+    "predict":"1.0104191936338844"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.203651,43.856293 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Weston",
+    "Day":"1",
+    "Month":5,
+    "Year":22,
+    "Time":18,
+    "predict":"1.0090879803438961"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.203651,43.856293 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Weston",
+    "Day":"1",
+    "Month":6,
+    "Year":22,
+    "Time":18,
+    "predict":"1.0053495309611336"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.203651,43.856293 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Weston",
+    "Day":"1",
+    "Month":7,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9992038454855963"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.203651,43.856293 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Weston",
+    "Day":"1",
+    "Month":8,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9906509239172845"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.203651,43.856293 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Weston",
+    "Day":"1",
+    "Month":9,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9796907662561987"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.203651,43.856293 ]
+    },
+    "properties": {
+    "State":"WY",
+    "County":"Weston",
+    "Day":"1",
+    "Month":10,
+    "Year":22,
+    "Time":18,
+    "predict":"0.9663233725023381"
+    }
+  }
+]
+}
