@@ -5,14 +5,13 @@ import predictionData from "./prediction.geojson"
 
 mapboxgl.accessToken = 'pk.eyJ1IjoiY2h1dHNvbjEiLCJhIjoiY2wwazV5M2s3MDFxZDNqcm1xeWh5MDVhZiJ9.g1UbqY2oSaOboxZ0nzmSEg';
 
-const Map = () => {
+const MapP = () => {
   const mapContainerRef = useRef(null);
 
   // initialize map when component mounts
   useEffect(() => {
     const map = new mapboxgl.Map({
       container: mapContainerRef.current,
-      // See style options here: https://docs.mapbox.com/api/maps/#styles
       style: "mapbox://styles/mapbox/light-v10",
       center: [-107.29, 43.07],
       zoom: 6
@@ -22,7 +21,6 @@ const Map = () => {
     map.addControl(new mapboxgl.NavigationControl(), "top-right");
 
     map.on("load", () => {
-      // add the data source for new a feature collection with no features
       map.addSource("predicted-data", {
         type: "geojson",
         data: predictionData
@@ -35,7 +33,6 @@ const Map = () => {
           source: 'predicted-data',
           maxzoom: 15,
           paint: {
-            // increase weight as diameter breast height increases
             'heatmap-weight': {
               property: 'predict',
               type: 'exponential',
@@ -52,14 +49,12 @@ const Map = () => {
                 [1, 90]
               ]
             },
-            // increase intensity as zoom level increases
             'heatmap-intensity': {
               stops: [
                 [0, 1],
                 [20, 3]
               ]
             },
-            // assign color values be applied to points depending on their density
             'heatmap-color': [
               'interpolate',
               ['linear'],
@@ -75,7 +70,6 @@ const Map = () => {
               0.8,
               'rgb(68, 192, 201)'
             ],
-            // increase radius as zoom increases
             'heatmap-radius': {
               stops: [
                 [0, 5],
@@ -91,7 +85,6 @@ const Map = () => {
                 [1, 36]
               ]
             },
-            // decrease opacity to transition into the circle layer
             'heatmap-opacity': {
               default: 1,
               stops: [
@@ -105,11 +98,12 @@ const Map = () => {
       );
     });
 
-    // clean up on unmount
     return () => map.remove();
   }, []);
 
-  return <div className="map-container" ref={mapContainerRef} />;
+  return (
+    <div className="map-container" ref={mapContainerRef} />
+  );
 };
 
-export default Map;
+export default MapP;
