@@ -1,7 +1,7 @@
 import "./map.css";
 import React, { useRef, useEffect } from 'react';
 import mapboxgl from 'mapbox-gl';
-import actualData from "./crime.geojson"
+import actualData from "./currentpredictions.geojson"
 
 mapboxgl.accessToken = 'pk.eyJ1IjoiY2h1dHNvbjEiLCJhIjoiY2wwazV5M2s3MDFxZDNqcm1xeWh5MDVhZiJ9.g1UbqY2oSaOboxZ0nzmSEg';
 
@@ -32,7 +32,7 @@ const MapNP = () => {
           maxzoom: 15,
           paint: {
             'heatmap-weight': {
-              property: 'Occurences',
+              property: 'probability of event',
               type: 'exponential',
               stops: [
                 [0, 0],
